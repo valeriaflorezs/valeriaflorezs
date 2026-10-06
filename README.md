@@ -8,6 +8,8 @@
 
 <br/>
 
+**🇪🇸 Español** · [🇬🇧 English](README.en.md)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-valeriaflorezs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
 [![Linktree](https://img.shields.io/badge/Linktree-valeriaflorezs-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/valeriaflorezs)
 [![Email](https://img.shields.io/badge/Email-vflorez.contacto%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vflorez.contacto@gmail.com)
