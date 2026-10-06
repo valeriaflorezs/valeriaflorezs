@@ -10,13 +10,13 @@
 
 **🇪🇸 Español** · [🇬🇧 English](README.en.md)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-valeriaflorezs-3C2E7A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
-[![Linktree](https://img.shields.io/badge/Linktree-valeriaflorezs-8073C3?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/valeriaflorezs)
-[![Email](https://img.shields.io/badge/Email-vflorez.contacto%40gmail.com-2D235B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vflorez.contacto@gmail.com)
+<a href="https://www.linkedin.com/in/valeriaflorezs/"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+<a href="https://linktr.ee/valeriaflorezs"><img src="assets/btn-linktree.svg" height="44" alt="Linktree" /></a>
+<a href="mailto:vflorez.contacto@gmail.com"><img src="assets/btn-email-es.svg" height="44" alt="Email" /></a>
 
 ![Visitas](https://komarev.com/ghpvc/?username=valeriaflorezs&label=Visitas&color=8073C3&style=flat-square)
-![Barranquilla](https://img.shields.io/badge/📍_Barranquilla,_Colombia-2D235B?style=flat-square)
-![Uninorte](https://img.shields.io/badge/🎓_Ciencia_de_Datos_·_Uninorte_2024--2027-2D235B?style=flat-square)
+![Barranquilla](https://img.shields.io/badge/📍_Barranquilla,_Colombia-3C2E7A?style=flat-square&labelColor=2D235B)
+![Uninorte](https://img.shields.io/badge/🎓_Ciencia_de_Datos_·_Uninorte_2024--2027-3C2E7A?style=flat-square&labelColor=2D235B)
 
 </div>
 
@@ -52,13 +52,13 @@ Lo que me diferencia: **no solo analizo datos, los explico.** Comparto el proces
 
 <br/><br/>
 
-![Power BI](https://img.shields.io/badge/Power_BI-F4E8C1?style=for-the-badge&logo=powerbi&logoColor=2D235B)
-![DAX](https://img.shields.io/badge/DAX-2D235B?style=for-the-badge)
-![Power Query M](https://img.shields.io/badge/Power_Query_(M)-2D235B?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-3C2E7A?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-3C2E7A?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-3C2E7A?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-3C2E7A?style=for-the-badge&logo=anthropic&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-3C2E7A?style=flat-square&logo=powerbi&logoColor=F4E8C1)
+![DAX](https://img.shields.io/badge/DAX-3C2E7A?style=flat-square&labelColor=2D235B)
+![Power Query M](https://img.shields.io/badge/Power_Query_(M)-3C2E7A?style=flat-square&labelColor=2D235B)
+![SQL](https://img.shields.io/badge/SQL-3C2E7A?style=flat-square&logo=postgresql&logoColor=F4E8C1)
+![Excel](https://img.shields.io/badge/Excel-3C2E7A?style=flat-square&logo=microsoftexcel&logoColor=F4E8C1)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-3C2E7A?style=flat-square&logo=scikitlearn&logoColor=F4E8C1)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-3C2E7A?style=flat-square&logo=anthropic&logoColor=F4E8C1)
 
 </div>
 
@@ -215,11 +215,11 @@ timeline
 
 ## 🏅 Certificaciones
 
-[![Power BI](https://img.shields.io/badge/Análisis_de_datos_con_Power_BI-F4E8C1?style=flat-square&logo=powerbi&logoColor=2D235B)](https://www.linkedin.com/in/valeriaflorezs/)
-[![IA Generativa](https://img.shields.io/badge/Qué_es_la_IA_generativa-3C2E7A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
-[![Búsqueda inteligente](https://img.shields.io/badge/IA_generativa:_búsqueda_inteligente-3C2E7A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
-[![Copilot](https://img.shields.io/badge/Chat_de_Microsoft_Copilot-3C2E7A?style=flat-square&logo=microsoft&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
-[![Liderazgo](https://img.shields.io/badge/Inmersión_en_Liderazgo-3C2E7A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
+[![Power BI](https://img.shields.io/badge/Análisis_de_datos_con_Power_BI-3C2E7A?style=flat-square&logo=powerbi&logoColor=F4E8C1)](https://www.linkedin.com/in/valeriaflorezs/)
+[![IA Generativa](https://img.shields.io/badge/Qué_es_la_IA_generativa-3C2E7A?style=flat-square&logo=linkedin&logoColor=F4E8C1)](https://www.linkedin.com/in/valeriaflorezs/)
+[![Búsqueda inteligente](https://img.shields.io/badge/IA_generativa:_búsqueda_inteligente-3C2E7A?style=flat-square&logo=linkedin&logoColor=F4E8C1)](https://www.linkedin.com/in/valeriaflorezs/)
+[![Copilot](https://img.shields.io/badge/Chat_de_Microsoft_Copilot-3C2E7A?style=flat-square&logo=microsoft&logoColor=F4E8C1)](https://www.linkedin.com/in/valeriaflorezs/)
+[![Liderazgo](https://img.shields.io/badge/Inmersión_en_Liderazgo-3C2E7A?style=flat-square&logo=linkedin&logoColor=F4E8C1)](https://www.linkedin.com/in/valeriaflorezs/)
 
 ---
 
@@ -240,8 +240,8 @@ timeline
 
 ### 🤝 Construyamos algo con datos
 
-[![LinkedIn](https://img.shields.io/badge/Conectemos_en_LinkedIn-3C2E7A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
-[![Linktree](https://img.shields.io/badge/Todos_mis_links-8073C3?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/valeriaflorezs)
+<a href="https://www.linkedin.com/in/valeriaflorezs/"><img src="assets/btn-connect-es.svg" height="44" alt="LinkedIn" /></a>
+<a href="https://linktr.ee/valeriaflorezs"><img src="assets/btn-links-es.svg" height="44" alt="Linktree" /></a>
 
 <sub>✦ Si algún proyecto te sirvió, déjale una estrella ⭐ ✦</sub>
 
