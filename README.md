@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Valeria%20Florez%20Sarmiento&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Tech%20Content%20Creator%20%C2%B7%20Presidenta%20de%20Singularity&descAlignY=60&descSize=17" alt="Valeria Florez Sarmiento" />
+<img src="assets/banner.jpg" alt="Valeria Florez · Connecting data to insights, making tech accessible" width="100%" />
 
 <a href="https://github.com/valeriaflorezs">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1D4ED8&center=true&vCenter=true&width=720&lines=La+mayor%C3%ADa+de+los+datos+existen.;El+problema+es+que+nadie+los+entiende.;Yo+los+analizo+%E2%80%94+y+los+explico.+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8073C3&center=true&vCenter=true&width=720&lines=La+mayor%C3%ADa+de+los+datos+existen.;El+problema+es+que+nadie+los+entiende.;Yo+los+analizo+%E2%80%94+y+los+explico.+%F0%9F%93%8A" alt="Typing SVG" />
 </a>
 
 <br/>
 
 **🇪🇸 Español** · [🇬🇧 English](README.en.md)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-valeriaflorezs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
-[![Linktree](https://img.shields.io/badge/Linktree-valeriaflorezs-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/valeriaflorezs)
-[![Email](https://img.shields.io/badge/Email-vflorez.contacto%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vflorez.contacto@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-valeriaflorezs-3C2E7A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
+[![Linktree](https://img.shields.io/badge/Linktree-valeriaflorezs-8073C3?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/valeriaflorezs)
+[![Email](https://img.shields.io/badge/Email-vflorez.contacto%40gmail.com-2D235B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vflorez.contacto@gmail.com)
 
-![Visitas](https://komarev.com/ghpvc/?username=valeriaflorezs&label=Visitas&color=1D4ED8&style=flat-square)
-![Barranquilla](https://img.shields.io/badge/📍_Barranquilla,_Colombia-0F172A?style=flat-square)
-![Uninorte](https://img.shields.io/badge/🎓_Ciencia_de_Datos_·_Uninorte_2024--2027-0F172A?style=flat-square)
+![Visitas](https://komarev.com/ghpvc/?username=valeriaflorezs&label=Visitas&color=8073C3&style=flat-square)
+![Barranquilla](https://img.shields.io/badge/📍_Barranquilla,_Colombia-2D235B?style=flat-square)
+![Uninorte](https://img.shields.io/badge/🎓_Ciencia_de_Datos_·_Uninorte_2024--2027-2D235B?style=flat-square)
 
 </div>
 
@@ -24,11 +24,23 @@
 
 ## 👋 Hola, soy Valeria
 
+> ✦ **Connecting data to insights, making tech accessible.** Mi propósito: que la ciencia de datos y la tecnología sean accesibles e impactantes.
+
 Convierto datos dispersos en **modelos de Business Intelligence** que permiten decidir rápido y con fundamento. Soy **Analista de Datos en Biosteel de Colombia**, **estudiante de Ciencia de Datos en la Universidad del Norte** y **Presidenta de Singularity**, el grupo estudiantil de Ciencia de Datos e IA de Uninorte.
 
 Lo que me diferencia: **no solo analizo datos, los explico.** Comparto el proceso real en vlogs y reels: de reportes manuales en Excel a dashboards dinámicos en Power BI, cómo estructurar medidas DAX sin perderse, y cómo es el día a día siendo estudiante y profesional de datos a la vez.
 
 > 💬 ¿Quieres automatizar la inteligencia de negocios de tu empresa o colaborar en contenido tech? **[Escríbeme](https://www.linkedin.com/in/valeriaflorezs/)**.
+
+---
+
+## ✦ Lo que encontrarás aquí
+
+| | Pilar | De qué trata |
+| :-: | :-- | :-- |
+| 📊 | **Data Science & AI** | Tutoriales, proyectos en Python, R y SQL, y visualizaciones con Power BI |
+| 🌟 | **Liderazgo y comunidad · Women in STEM** | Mi experiencia como presidenta de Singularity, organización de eventos y vida estudiantil |
+| 💡 | **Pensamiento crítico** | Ensayos y reflexión desde *Thinking Outside The Box* |
 
 ---
 
@@ -40,13 +52,13 @@ Lo que me diferencia: **no solo analizo datos, los explico.** Comparto el proces
 
 <br/><br/>
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0F172A?style=for-the-badge)
-![Power Query M](https://img.shields.io/badge/Power_Query_(M)-0F172A?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F4E8C1?style=for-the-badge&logo=powerbi&logoColor=2D235B)
+![DAX](https://img.shields.io/badge/DAX-2D235B?style=for-the-badge)
+![Power Query M](https://img.shields.io/badge/Power_Query_(M)-2D235B?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-3C2E7A?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-3C2E7A?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-3C2E7A?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-3C2E7A?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
@@ -151,6 +163,7 @@ Modelado y análisis con teoría de grafos aplicada.
 ## 💼 Experiencia
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#3C2E7A','primaryTextColor':'#FFFFFF','primaryBorderColor':'#8073C3','lineColor':'#A594F1','secondaryColor':'#8073C3','tertiaryColor':'#F4E8C1','cScale0':'#2D235B','cScale1':'#3C2E7A','cScale2':'#8073C3','cScaleLabel0':'#FFFFFF','cScaleLabel1':'#FFFFFF','cScaleLabel2':'#FFFFFF'}}}%%
 timeline
     title Mi recorrido
     2024 : Ingreso a Ciencia de Datos en Uninorte
@@ -202,11 +215,11 @@ timeline
 
 ## 🏅 Certificaciones
 
-[![Power BI](https://img.shields.io/badge/Análisis_de_datos_con_Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://www.linkedin.com/in/valeriaflorezs/)
-[![IA Generativa](https://img.shields.io/badge/Qué_es_la_IA_generativa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
-[![Búsqueda inteligente](https://img.shields.io/badge/IA_generativa:_búsqueda_inteligente-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
-[![Copilot](https://img.shields.io/badge/Chat_de_Microsoft_Copilot-0A66C2?style=flat-square&logo=microsoft&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
-[![Liderazgo](https://img.shields.io/badge/Inmersión_en_Liderazgo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
+[![Power BI](https://img.shields.io/badge/Análisis_de_datos_con_Power_BI-F4E8C1?style=flat-square&logo=powerbi&logoColor=2D235B)](https://www.linkedin.com/in/valeriaflorezs/)
+[![IA Generativa](https://img.shields.io/badge/Qué_es_la_IA_generativa-3C2E7A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
+[![Búsqueda inteligente](https://img.shields.io/badge/IA_generativa:_búsqueda_inteligente-3C2E7A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
+[![Copilot](https://img.shields.io/badge/Chat_de_Microsoft_Copilot-3C2E7A?style=flat-square&logo=microsoft&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
+[![Liderazgo](https://img.shields.io/badge/Inmersión_en_Liderazgo-3C2E7A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
 
 ---
 
@@ -214,10 +227,10 @@ timeline
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=valeriaflorezs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriaflorezs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=valeriaflorezs&show_icons=true&bg_color=2D235B&title_color=F4E8C1&text_color=FFFFFF&icon_color=A594F1&border_color=8073C3&rank_icon=github&count_private=true&rank_icon=github" alt="Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriaflorezs&layout=compact&bg_color=2D235B&title_color=F4E8C1&text_color=FFFFFF&icon_color=A594F1&border_color=8073C3&rank_icon=github&langs_count=8" alt="Lenguajes" />
 
-<img src="https://streak-stats.demolab.com?user=valeriaflorezs&theme=tokyonight&hide_border=true" alt="Racha" />
+<img src="https://streak-stats.demolab.com?user=valeriaflorezs&background=2D235B&border=8073C3&stroke=8073C3&ring=A594F1&fire=F4E8C1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F4E8C1&sideLabels=A594F1&dates=A594F1" alt="Racha" />
 
 </div>
 
@@ -227,11 +240,11 @@ timeline
 
 ### 🤝 Construyamos algo con datos
 
-[![LinkedIn](https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
-[![Linktree](https://img.shields.io/badge/Todos_mis_links-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/valeriaflorezs)
+[![LinkedIn](https://img.shields.io/badge/Conectemos_en_LinkedIn-3C2E7A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaflorezs/)
+[![Linktree](https://img.shields.io/badge/Todos_mis_links-8073C3?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/valeriaflorezs)
 
-<sub>⭐ Si algún proyecto te sirvió, déjale una estrella.</sub>
+<sub>✦ Si algún proyecto te sirvió, déjale una estrella ⭐ ✦</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A594F1,50:8073C3,100:2D235B&height=100&section=footer" alt="" />
 
 </div>
